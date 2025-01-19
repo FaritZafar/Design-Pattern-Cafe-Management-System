@@ -45,3 +45,19 @@ This project implements four design patterns to ensure clean, efficient, and sca
     Clone the repository locally and make changes.
     Commit your changes and push them to your branch.
     Open a Pull Request to the main branch with a clear description of what you have done.
+   
+2. Open the Project
+   Open the project in Visual Studio.
+   Configure Database
+   Set up your database and modify the connection string in the app.config file to match your database configuration.
+
+3. Build and Run
+   Build the solution by selecting Build > Build Solution from the menu.
+   Press F5 or click Start to run the application in kiosk mode.
+
+Usage
+Customer View
+
+    Upon starting the application, customers will be presented with a menu to select their items (e.g., food, drinks).
+    Once the items are selected, they can choose to pay via cash or card.
+    After payment, the system will display a confirmation and proceed with the order.
