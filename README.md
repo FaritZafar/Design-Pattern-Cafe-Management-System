@@ -39,39 +39,7 @@ This project implements four design patterns to ensure clean, efficient, and sca
 
    ```bash
    git clone https://github.com/your-username/cafe-management-system.git
-    Open the Project
-        Open the project in Visual Studio.
 
-    Configure Database
-        Set up your database and modify the connection string in the app.config file to match your database configuration.
-
-    Build and Run
-        Build the solution by selecting Build > Build Solution from the menu.
-        Press F5 or click Start to run the application in kiosk mode.
-
-Usage
-Customer View
-
-    Upon starting the application, customers will be presented with a menu to select their items (e.g., food, drinks).
-    Once the items are selected, they can choose to pay via cash or card.
-    After payment, the system will display a confirmation and proceed with the order.
-
-Administrator View
-
-    Admin can monitor orders, manage inventory, and generate reports on sales and stock levels.
-    The admin interface is password-protected and only accessible by authorized users.
-
-Technologies Used
-
-    C# - Primary programming language used.
-    Windows Forms - For creating the user interface.
-    SQL Server - For storing orders and inventory.
-    .NET Framework - For application structure and managing the logic.
-
-Contribution
-
-Feel free to fork the repository, create a pull request, and contribute to the development of this project.
-Guidelines for Contributing:
 
     Fork the repository and create your branch from main.
     Clone the repository locally and make changes.
