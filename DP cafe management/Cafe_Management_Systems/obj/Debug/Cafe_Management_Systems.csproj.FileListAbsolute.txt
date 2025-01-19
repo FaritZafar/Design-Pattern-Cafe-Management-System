@@ -1,0 +1,122 @@
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe.config
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.pdb
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\mscorlib.dll
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\normidna.nlp
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\normnfc.nlp
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\normnfd.nlp
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\normnfkc.nlp
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\normnfkd.nlp
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csprojResolveAssemblyReference.cache
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Form1.resources
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Properties.Resources.resources
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.GenerateResource.Cache
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.exe
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.pdb
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.login.resources
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.register.resources
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe.config
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.exe
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.pdb
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csprojResolveAssemblyReference.cache
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Form1.resources
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.login.resources
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Properties.Resources.resources
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.register.resources
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.GenerateResource.Cache
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.pdb
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\mscorlib.dll
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\normidna.nlp
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\normnfc.nlp
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\normnfd.nlp
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\normnfkc.nlp
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\bin\Debug\normnfkd.nlp
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.AddProduct.resources
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Exit.resources
+C:\Users\Ashar Akhter\Desktop\cafe-management-system-c--master\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.order.resources
+C:\Users\Ashar Akhter\Desktop\cafe management _63011_63064\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe.config
+C:\Users\Ashar Akhter\Desktop\cafe management _63011_63064\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.exe
+C:\Users\Ashar Akhter\Desktop\cafe management _63011_63064\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.pdb
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe.config
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.pdb
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.AddProduct.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Exit.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Form1.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.login.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.order.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Properties.Resources.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.register.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.CopyComplete
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.exe
+C:\Users\DELL\Downloads\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.pdb
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe.config
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.pdb
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.AssemblyReference.cache
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.SuggestedBindingRedirects.cache
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.AddProduct.resources
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Exit.resources
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Form1.resources
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.login.resources
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.order.resources
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Properties.Resources.resources
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.register.resources
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.GenerateResource.cache
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.CoreCompileInputs.cache
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.CopyComplete
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.exe
+C:\Users\E5440\Desktop\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.pdb
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe.config
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.pdb
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.AddProduct.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Exit.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Form1.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.login.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.order.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Properties.Resources.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.register.resources
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.CopyComplete
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.exe
+C:\Users\DELL\Downloads\DP Project\DP Project\DP Project\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.pdb
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe.config
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.pdb
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csprojAssemblyReference.cache
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.AddProduct.resources
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Exit.resources
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Form1.resources
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.login.resources
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.order.resources
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Properties.Resources.resources
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.register.resources
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.GenerateResource.cache
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.CoreCompileInputs.cache
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.CopyComplete
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.exe
+D:\University Courses\DP\DP Project\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.pdb
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csprojAssemblyReference.cache
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.AddProduct.resources
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Exit.resources
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Form1.resources
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.login.resources
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.order.resources
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.Properties.Resources.resources
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.register.resources
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.GenerateResource.cache
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.CoreCompileInputs.cache
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.exe
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.pdb
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe.config
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.exe
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\bin\Debug\Cafe_Management_Systems.pdb
+D:\University Courses\DP\DP cafe management\Cafe_Management_Systems\obj\Debug\Cafe_Management_Systems.csproj.CopyComplete
